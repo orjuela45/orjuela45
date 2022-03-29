@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **miguel.orjuela45@gmail.com**
 
-- 📄 Know about my experiences [I worked with cooperatives, construction plannings, laika´s inventory, analityc forms](I worked with cooperatives, construction plannings, laika´s inventory, analityc forms)
+- 📄 Know about my experiences (I worked with cooperatives, construction plannings, laika´s inventory, analityc forms)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
