@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel Orjuela Riaño</h1>
-<h3 align="center">A passionate backend and frontenddeveloper from Colombia</h3>
+<h3 align="center">A passionate backend and frontend developer from Colombia</h3>
 
 - 🌱 I’m currently learning **Node js, React, React Native, MERN**
 
